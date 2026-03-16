@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name:       Commerce Intelligence Engine
- * Plugin URI:        https://woocie.site
+ * Plugin URI:        https://www.dganotis.dev/projects/commerce-intelligence-engine
  * Description:       The Commerce Intelligence Engine (CIE) is an on-premise, transparent, and performance-optimized recommendation and basket intelligence system for WooCommerce stores.
  * Version:           1.0.0
- * Author:            ArtisWeb
- * Author URI:        https://artisweb.gr/
+ * Author:            Dimitris Ganotis
+ * Author URI:        https://www.dganotis.dev
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       commerce-intelligence-engine

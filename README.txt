@@ -1,6 +1,6 @@
 === Commerce Intelligence Engine ===
-Contributors: artisweb
-Donate link: https://artisweb.gr/
+Contributors: dimitrisganotis
+Donate link: https://www.dganotis.dev
 Tags: woocommerce, recommendations, product recommendations, cross-sell, analytics
 Requires at least: 6.0
 Tested up to: 6.8

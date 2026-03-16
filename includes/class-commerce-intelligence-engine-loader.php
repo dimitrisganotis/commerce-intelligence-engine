@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://artisweb.gr
+ * @link       https://www.dganotis.dev
  * @since      1.0.0
  *
  * @package    Commerce_Intelligence_Engine
@@ -19,7 +19,7 @@
  *
  * @package    Commerce_Intelligence_Engine
  * @subpackage Commerce_Intelligence_Engine/includes
- * @author     ArtisWeb <contact@artisweb.gr>
+ * @author     Dimitris Ganotis <hello@dganotis.dev>
  */
 class Commerce_Intelligence_Engine_Loader {
 
